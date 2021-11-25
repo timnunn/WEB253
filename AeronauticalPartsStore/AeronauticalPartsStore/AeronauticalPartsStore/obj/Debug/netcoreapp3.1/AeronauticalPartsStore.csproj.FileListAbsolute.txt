@@ -1,0 +1,17 @@
+C:\Users\three\OneDrive\Documents\WEB253\AeronauticalPartsStore\AeronauticalPartsStore\AeronauticalPartsStore\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\three\OneDrive\Documents\WEB253\AeronauticalPartsStore\AeronauticalPartsStore\AeronauticalPartsStore\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\three\OneDrive\Documents\WEB253\AeronauticalPartsStore\AeronauticalPartsStore\AeronauticalPartsStore\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\three\OneDrive\Documents\WEB253\AeronauticalPartsStore\AeronauticalPartsStore\AeronauticalPartsStore\bin\Debug\netcoreapp3.1\AeronauticalPartsStore.exe
+C:\Users\three\OneDrive\Documents\WEB253\AeronauticalPartsStore\AeronauticalPartsStore\AeronauticalPartsStore\bin\Debug\netcoreapp3.1\AeronauticalPartsStore.deps.json
+C:\Users\three\OneDrive\Documents\WEB253\AeronauticalPartsStore\AeronauticalPartsStore\AeronauticalPartsStore\bin\Debug\netcoreapp3.1\AeronauticalPartsStore.runtimeconfig.json
+C:\Users\three\OneDrive\Documents\WEB253\AeronauticalPartsStore\AeronauticalPartsStore\AeronauticalPartsStore\bin\Debug\netcoreapp3.1\AeronauticalPartsStore.runtimeconfig.dev.json
+C:\Users\three\OneDrive\Documents\WEB253\AeronauticalPartsStore\AeronauticalPartsStore\AeronauticalPartsStore\bin\Debug\netcoreapp3.1\AeronauticalPartsStore.dll
+C:\Users\three\OneDrive\Documents\WEB253\AeronauticalPartsStore\AeronauticalPartsStore\AeronauticalPartsStore\bin\Debug\netcoreapp3.1\AeronauticalPartsStore.pdb
+C:\Users\three\OneDrive\Documents\WEB253\AeronauticalPartsStore\AeronauticalPartsStore\AeronauticalPartsStore\obj\Debug\netcoreapp3.1\staticwebassets\AeronauticalPartsStore.StaticWebAssets.Manifest.cache
+C:\Users\three\OneDrive\Documents\WEB253\AeronauticalPartsStore\AeronauticalPartsStore\AeronauticalPartsStore\obj\Debug\netcoreapp3.1\staticwebassets\AeronauticalPartsStore.StaticWebAssets.xml
+C:\Users\three\OneDrive\Documents\WEB253\AeronauticalPartsStore\AeronauticalPartsStore\AeronauticalPartsStore\obj\Debug\netcoreapp3.1\AeronauticalPartsStore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\three\OneDrive\Documents\WEB253\AeronauticalPartsStore\AeronauticalPartsStore\AeronauticalPartsStore\obj\Debug\netcoreapp3.1\AeronauticalPartsStore.AssemblyInfoInputs.cache
+C:\Users\three\OneDrive\Documents\WEB253\AeronauticalPartsStore\AeronauticalPartsStore\AeronauticalPartsStore\obj\Debug\netcoreapp3.1\AeronauticalPartsStore.AssemblyInfo.cs
+C:\Users\three\OneDrive\Documents\WEB253\AeronauticalPartsStore\AeronauticalPartsStore\AeronauticalPartsStore\obj\Debug\netcoreapp3.1\AeronauticalPartsStore.RazorTargetAssemblyInfo.cache
+C:\Users\three\OneDrive\Documents\WEB253\AeronauticalPartsStore\AeronauticalPartsStore\AeronauticalPartsStore\obj\Debug\netcoreapp3.1\AeronauticalPartsStore.dll
+C:\Users\three\OneDrive\Documents\WEB253\AeronauticalPartsStore\AeronauticalPartsStore\AeronauticalPartsStore\obj\Debug\netcoreapp3.1\AeronauticalPartsStore.pdb
